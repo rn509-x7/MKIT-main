@@ -9,7 +9,7 @@ This tool is still in BETA, so there aren't too many payloads and tools, so I'm 
 # Install
 This is the way to clone the MKIT repository
   ```
-  $ git clone https://github.com/rn509/MKIT
+  $ git clone https://github.com/rn509/MKIT-main
   $ cd MKIT
   ```
 Initial installation, you have to run install.py in this way
